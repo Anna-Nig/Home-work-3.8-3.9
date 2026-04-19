@@ -1,0 +1,51 @@
+# Виртуальные окружения Python (ОБЯЗАТЕЛЬНО!)
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Байт-код Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# macOS мусор (ВАЖНО для вас)
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# IDE файлы
+.vscode/
+.idea/
+*.swp
+*~
+
+# Логи
+*.log
+
+# Тесты и покрытие
+.coverage
+.coverage.*
+.cache/
+htmlcov/
+.pytest_cache/
+
+# Пакеты и сборка
+build/
+dist/
+*.egg-info/
+pip-wheel-metadata/
+
+# Среда
+.env
