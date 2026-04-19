@@ -1,4 +1,4 @@
-# Виртуальные окружения Python (ОБЯЗАТЕЛЬНО!)
+# Виртуальные окружения Python 
 .venv/
 venv/
 env/
@@ -18,7 +18,7 @@ __pycache__/
 .ipynb_checkpoints/
 *.ipynb_checkpoints
 
-# macOS мусор (ВАЖНО для вас)
+# macOS мусор 
 .DS_Store
 .DS_Store?
 ._*
